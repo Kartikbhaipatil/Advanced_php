@@ -4,7 +4,7 @@ This repository contains advanced PHP exercises covering various topics like Obj
 
 ## PDF Documentation
 
-You can download the PDF documentation for this project [here]([Advance-PHP Exercise.pdf](https://github.com/Kartikbhaipatil/Advance-PHP-Exercise/blob/main/Advance-PHP%20Exercise.pdf)).
+You can download the PDF documentation for this project [here]([Advance-PHP Exercise.pdf](http://github.com/Kartikbhaipatil/Advanced_php/blob/main/Advance-PHP%20Exercise.pdf)).
 
 
 
